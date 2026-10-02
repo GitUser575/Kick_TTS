@@ -6,6 +6,13 @@ Windows Python application for Kick chat monitoring, TTS, alerts, voice playback
 
 This project is currently distributed as Python source with a setup script. The current baseline version is **1.67**.
 
+## Requirements
+
+1. Windows 10 or 11
+2. Nvidia GTX 1080 or newer graphics card
+3. 6GB free space
+
+
 ## Installation
 
 1. Install or clone this repository into a writable folder.
